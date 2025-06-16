@@ -25,7 +25,7 @@ LEARNING TRACK - SALESFORCE - DEVELOPER
 TRAILHEAD PROFILE LINK-https://www.salesforce.com/trailblazer/pt69yvmjfnhhdcp9vs
 
 PROJECT NAME - MEDICAL INVENTORY MANAGEMENT 
-ORG USERNAME -jessikajessika731@agentforce.com
+ORG USERNAME -jessikajessika731507@agentforce.com
 PASSWORD - Gayatri@123
 
 STUDENT ID - SBAP0029483
@@ -35,7 +35,7 @@ LEARNING TRACK - SALESFORCE - DEVELOPER
 TRAILHEAD PROFILE LINK-https://www.salesforce.com/trailblazer/xtznje7t793p7sk2b0
 
 PROJECT NAME - MEDICAL INVENTORY MANAGEMENT 
-ORG USERNAME - suchithra1873698@agentforce.com
+ORG USERNAME - suchithrachinnathambu835@agentforce.com
 PASSWORD - Gayatri@123
 
 STUDENT ID - SBAP0029481
